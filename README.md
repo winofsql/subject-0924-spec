@@ -31,3 +31,5 @@
 - 日次処理
 - 月次処理
 - 随時処理
+
+![image](https://user-images.githubusercontent.com/1501327/134636372-c84a54ae-b779-43e6-96de-660d17bf019f.png)
